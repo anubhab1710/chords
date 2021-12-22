@@ -1,1 +1,1 @@
-voice_channel_moderator_roles = ["DJ", "Moderator", "GDSC Lead", "Core Team"]
+voice_channel_moderator_roles = ["Kamisama", "Moderator", "Sauce Hero", "Admin", "DJ"]
