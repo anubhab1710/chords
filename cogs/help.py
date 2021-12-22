@@ -43,7 +43,7 @@ class Help(commands.Cog):
             )
 
         cog_help_embed.add_field(
-            name="Developer:", value="Aman Prakash Jha \U0001F525", inline=False
+            name="Developer:", value="Google Developers Students Club JGEC \U0001F525", inline=False
         )
         await ctx.send(embed=cog_help_embed)
 
